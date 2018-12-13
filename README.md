@@ -1,4 +1,4 @@
 # HelloWorld
 C/C++ test
 
-test as the first programme. (｀・ω・´)
+test as the first program. (｀・ω・´)
